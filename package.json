@@ -37,7 +37,7 @@
         "moment": "^2.29.4",
         "postcss": "^8.4.31",
         "prism-themes": "^1.9.0",
-        "prismjs": "^1.29.0",
+        "prismjs": "^1.30.0",
         "react-beautiful-dnd": "^13.1.1",
         "react-color": "^2.19.3",
         "react-frame-component": "^5.2.6",
