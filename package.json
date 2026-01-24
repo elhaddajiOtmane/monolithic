@@ -33,7 +33,7 @@
         "html-react-parser": "^5.1.7",
         "immer": "^10.0.2",
         "ionicons": "^7.1.2",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "moment": "^2.29.4",
         "postcss": "^8.4.31",
         "prism-themes": "^1.9.0",
